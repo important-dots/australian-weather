@@ -1,3 +1,5 @@
+# extra comment added in delete_me training
+
 # Simple script analysing the Australian weather data
 
 library("tidyverse")
